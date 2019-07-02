@@ -14,7 +14,7 @@
         <div class="form-group">
             <label for="Password" class="control-label">Contraseña</label>
             <input type="password" name= "password" class="form-control" placeholder="Contraseña">
-        </div>  s
+        </div>
         <div class="form-group">
                 <button type="submit" class="btn btn-info  pull-right">Entrar</button>
         </div>
